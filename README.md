@@ -91,7 +91,7 @@ This repository serves as:
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Main Structure
 
 The repository is organized into three main directories, each representing one class of algorithms.
 Every folder contains well-documented implementations, examples, and references for further study.
